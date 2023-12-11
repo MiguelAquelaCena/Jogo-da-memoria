@@ -1,0 +1,17 @@
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe.config
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.exe
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\bin\Debug\Jogo da memoria.pdb
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.AssemblyReference.cache
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.Form1.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.Properties.Resources.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.GenerateResource.cache
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.csproj.CoreCompileInputs.cache
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.exe
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo da memoria.pdb
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.FormLogin.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.Form3.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.FormDificuldade.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.FormDMedia.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.FormD_Dificil.resources
+C:\Users\silen\OneDrive\Imagens\visual\Jogo da memoria\Jogo da memoria\obj\Debug\Jogo_da_memoria.FormD_Chosen.resources
